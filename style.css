@@ -205,6 +205,8 @@ footer hr {
 }
 
 
+
+
 /* Experience */
 .experience [class*="row"] {
   border-bottom: dotted 1px #ccc;
@@ -247,13 +249,13 @@ footer hr {
 }
 
 
-/* Testimonials */
-.testimonial {
+/* porjects */
+.porjects {
   text-align: center;
   margin-bottom: 30px;
 }
 
-.testimonial img {
+.porjects img {
   height: 4em;
   border-radius: 3px;
   margin-left: auto;
@@ -262,7 +264,7 @@ footer hr {
   margin-top: 40px;
 }
 
-.testimonial p {
+.porjects p {
   font-style: italic;
   color: #888;
   margin-top:  -15px;
