@@ -3,8 +3,8 @@ var data = [];
 var image1 = new Object();
 image1.index = 1;
 image1.img = "images/navs/1.jpg";
-image1.caption = "2048";
-
+image1.caption = "2048 Game";
+image1.desc = 
 
 for(var i = 0; i < 7; i++){
 	var image = new Object();
