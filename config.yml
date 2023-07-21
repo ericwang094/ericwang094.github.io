@@ -1,5 +1,5 @@
-baseURL: 'https://hugo-ladder.pages.dev'
-title: LADDER
+baseURL: 'https://ericwang094.github.io'
+title: Eric Woodman
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
@@ -9,10 +9,9 @@ defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
 paginate: 10
 hasCJKLanguage: true
-copyright: "2023 GuangzhengLi All rights reserved"
 Author:
-  name: "Guangzheng Li"
-  email: "iguangzhengli@gmail.com"
+  name: "Eric Wang"
+  email: "eric.wang094@gmail.com"
 menu:
   main:
     - name: Blog
@@ -35,11 +34,11 @@ menu:
       weight: 6
 params:
   brand: HOME
-  avatarURL: /images/avatar.png
-  author: Hugo Ladder
-  authorDescription: A clean, fast hugo theme focused on Reading
-  info: Ladder is a clean, simple but beautiful theme with awesome features
-  favicon: /images/avatar.png
+  avatarURL: /images/woodman.png
+  author: Eric Wang
+  authorDescription: Data Engineer who loves food and tech.
+  info: Blog to share and record learnings.
+  favicon: /images/woodman.png
   options:
     showDarkMode: true
     enableImgZooming: true
@@ -49,21 +48,10 @@ params:
   sponsors:
     title: Sponsors
     description: Support me by becoming a sponsor
-    buymeaCoffee:
-      enable: true
-      url: https://www.buymeacoffee.com/iguangzhengli
-      buttom_api: https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=iguangzhengli&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff
-      qr: https://storage.guangzhengli.com/images/buymeacoffee_sponsors.png
-    wechat:
-      enable: true
-      qr: https://storage.guangzhengli.com/images/alipay_sponsors.jpeg
-    alipay:
-      enable: true
-      qr: https://storage.guangzhengli.com/images/weixin_sponsors.jpeg
   comments:
     giscus:
-      enable: true
-      repo: guangzhengli/hugo-ladder-exampleSite
+      enable: false
+      repo: https://github.com/ericwang094/ericwang094.github.io
       repo_id: R_kgDOHyVOjg
       category: Announcements
       category_id: DIC_kwDOHyVOjs4CQsH7
